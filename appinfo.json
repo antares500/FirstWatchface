@@ -3,7 +3,7 @@
     "capabilities": [
         ""
     ],
-    "companyName": "f.s.kidd@gmail.com",
+    "companyName": "antares500@gmail.com",
     "longName": "FirstWatchface",
     "projectType": "pebblejs",
     "resources": {
@@ -33,7 +33,7 @@
     },
     "sdkVersion": "3",
     "shortName": "FirstWatchface",
-    "uuid": "5b7f96ea-49fb-4e08-b69c-a99fa522cffb",
+    "uuid": "e95ec44a-9e04-4bd2-91cb-ab26461ce4ed",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
